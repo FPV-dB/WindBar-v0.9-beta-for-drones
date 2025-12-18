@@ -8,7 +8,7 @@ Note: This is only a beta, I'm still working o it. Feel free to add stuff to it,
 
 Made some screenshots and brief notes 
 
-Please remember to fly your drone within the current laws of your local area. (which will probably change again soon hehe)
+Please remember to fly your drone within the current laws of your local area. 
 
 
 
