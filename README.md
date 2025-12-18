@@ -6,3 +6,7 @@ Here's some screenshots!
 
 Note: This is only a beta, I'm still working o it. Feel free to add stuff to it, but please attribute me. 
 
+Made some screenshots and brief notes 
+
+https://imgur.com/a/windbar-v0-9-beta-drone-pilots-Vovtw5z
+
