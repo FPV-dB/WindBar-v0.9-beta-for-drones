@@ -1,0 +1,8 @@
+Hey I am a drone enthusiast and made this app with Swift and XCode for Mac OS. It is really simply to compile yourself, and it's quite a useful app. It can sit in the top taskbar and
+show current wind speeds, and you can set a wind speed you're seeking nad it will alert you when its dropped to that level. It also shows a list of maximum wind speeds for a lot of 
+popular drones as well as links to some great drone pilot videos, in case you want to watch somee pros.
+
+Here's some screenshots!
+
+Note: This is only a beta, I'm still working o it. Feel free to add stuff to it, but please attribute me. 
+
